@@ -28,5 +28,3 @@ The parameters were estimated via MCMC sampling software STAN (Carpenter et al.,
 *  Carpenter, B., Gelman, A., Hoffman, M. D., Lee, D., Goodrich, B., Betancourt, M., ... & Riddell, A. (2017). Stan: a probabilistic programming language. Grantee Submission, 76(1), 1-32.
 *  Commandeur, J. J., & Koopman, S. J. (2007). An introduction to state space time series analysis. Oxford University Press.
 *  Matsui, H., Yamada, K., Sakagami, T., & Tanno, T. (2018). Modeling bout–pause response patterns in variable-ratio and variable-interval schedules using hierarchical Bayesian methodology. Behavioural processes, 157, 346-353.
-
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
